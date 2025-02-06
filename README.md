@@ -1,7 +1,7 @@
 # How to Launch Rice Client:
 Download RiceCooker (Launcher)
-- Go to this link: https://www.riceclient.com/downloads.
-- 
+- Go to official website: https://www.riceclient.com/ and click on Download.
+- Or go to the Launcher Repo: https://github.com/HackingBatard/RiceCooker.
 
 # Launching the Client:
 - Open the RiceCooker launcher you just downloaded and run it.
