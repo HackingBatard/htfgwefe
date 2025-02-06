@@ -1,7 +1,7 @@
 # How to Launch Rice Client:
 Download RiceCooker (Launcher)
-- Go to this link: RiceCooker_v1.2.jar.
-- Install the RiceCooker Launcher by downloading it from RiceClient Official Website.
+- Go to this link: https://www.riceclient.com/downloads.
+- 
 
 # Launching the Client:
 - Open the RiceCooker launcher you just downloaded and run it.
